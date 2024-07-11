@@ -1,0 +1,5 @@
+export const REGISTRATION_ROUTE = '/registration'
+export const LOGIN_ROUTE = '/login'
+export const MAIN_ROUTE = '/main'
+export const USERCARD_ROUTE = '/usercard'
+export const PROFILE_ROUTE = '/profile'
